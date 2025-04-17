@@ -66,3 +66,14 @@ Il y a un petit chateau à cinq Mars la pile. Il y a également des tours un peu
 Il y a un château à langeais et c'est à peu pres tout
 
 ![Jour 6](./jour6.png)
+
+## Quelques photos du centre val de loire 
+
+![](./images.jpeg)
+![](./images%20(1).jpeg)
+![](./images%20(2).jpeg)
+![](./renovation-metallique-centre-val-de-loire.jpg)
+![](./téléchargement.jpeg)
+![](./téléchargement%20(3).jpeg)
+![](./téléchargement%20(2).jpeg)
+![](téléchargement%20(1).jpeg)
