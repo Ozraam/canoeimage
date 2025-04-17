@@ -9,7 +9,7 @@ Les paysage ça va etre globalement du plat et des champs (et oui c'est la loire
 
 ### etape
 
-**Jour 1 - [Cavereau](https://maps.app.goo.gl/emWCPHkiWigAEEvr9) -> [Base loire kayak](https://maps.app.goo.gl/2QhBKZVP26XNfzVH7) (20km - 4h de rame)**
+**Jour 1 - https://maps.app.goo.gl/emWCPHkiWigAEEvr9 -> https://maps.app.goo.gl/2QhBKZVP26XNfzVH7 (20km - 4h de rame)**
 
 Visite : Chateaux de Chambord, Cheverny et blois.
 
@@ -24,7 +24,7 @@ Apparemment Blois c'est joli et c'est surtout là qu'il faut visiter pour le jou
 Trajet qui suit la loire
 ![Image](./jour1-trajet-voiture.png)
 
-**Jour 2 - [Base loire kayak](https://maps.app.goo.gl/2QhBKZVP26XNfzVH7) -> Chaumont (20km - 4h de rame)**
+**Jour 2 - Base loire kayak -> Chaumont (20km - 4h de rame)**
 
 Pas grand chose à voire sur cette partie, le chateau de Chaumont sur Loire. Des petit village en bord de fleuve mais sinon passer blois c'est surtout le fleuve et nous.
 
