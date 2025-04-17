@@ -22,7 +22,12 @@ Trajet qui suit la loire
 
 **Jour 2 - [Base loire kayak](https://maps.app.goo.gl/2QhBKZVP26XNfzVH7) -> Chaumont (20km - 4h de rame)**
 
+Pas grand chose à voire sur cette partie, le chateau de Chaumont sur Loire. Des petit village en bord de fleuve mais sinon passer blois c'est surtout le fleuve et nous.
+
 Visite : Château et Jardin de Chaumont sur Loire
+
+Trajet:
+![Jour 2](./Jour2-trajet.png)
 
 **Jour 3 - Chaumont -> Amboise (18km - 4h de rame)**
 
