@@ -51,6 +51,10 @@ Sur le site de l'office du tourisme de Montlouis il parle que des domaine vitico
 
 Visite : Vielle bille de Tours et les quais de Loire lors du portage au pont Wilson, Chateau de Luynes
 
+Globalement il y a Tours sur le chemin, c'est un peu moins de la moitié de l'itinéraire.
+
+![Jour 5](./jour5.png)
+
 **Jour 6 - Saint Etienne de chigny -> Bréhémont (22km - 4h de rame)**
 
 Visite : Tour de Cinq Mars la Pile, Château de Langeais
