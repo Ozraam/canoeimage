@@ -37,13 +37,19 @@ Quelque visite à Amboise mais entre pas trop, faut pagayer
 
 ![Jour 3](./jour3.png)
 
-**Jour 4 - Amboise -> Vauvray (14km - 3h de rame)**
+**Jour 4 - Amboise -> Vouvray (14km - 3h de rame)**
 
 Visite : Caves troglodytiques en bord de Loire, village de Montlouis/Loire et Maison de Loire
 
+Pas grand chose sur cette partie, il y a une ile appeller ile au chats.
+
+Sur le site de l'office du tourisme de Montlouis il parle que des domaine viticole et vinicole
+
+![Jour 4](./jour4.png)
+
 **Jour 5 - Vouvray -> Saint Etienne de chigny (17km - 3h30 de rame)**
 
-Visite : Vielle bille de Tours et les quais de Lors lors du portage au pont Wilson, Chateau de Luynes
+Visite : Vielle bille de Tours et les quais de Loire lors du portage au pont Wilson, Chateau de Luynes
 
 **Jour 6 - Saint Etienne de chigny -> Bréhémont (22km - 4h de rame)**
 
