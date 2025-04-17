@@ -1,7 +1,9 @@
 ## Cavereau à Bréhémont 6 jours
 [Lien](https://rando-canoe-france.com/rando-6-jours-cavereau-brehemont)
 
-[Carte avec les lieux d'intéret](https://umap.openstreetmap.fr/fr/map/anonymous-edit/1208778:MvWL7TE7JfSv0qb_HxJ7rlsjCuSvp-IrV5CC2c_QEDM)
+180€ / personne
+
+[Carte avec les points d'intéret](https://umap.openstreetmap.fr/fr/map/anonymous-edit/1208778:MvWL7TE7JfSv0qb_HxJ7rlsjCuSvp-IrV5CC2c_QEDM)
 
 Les paysage ça va etre globalement du plat et des champs (et oui c'est la loire), des villages et des villes + une departemental qui suis la loire.
 
