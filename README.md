@@ -3,6 +3,8 @@
 
 [Carte avec les lieux d'intéret](https://umap.openstreetmap.fr/fr/map/anonymous-edit/1208778:MvWL7TE7JfSv0qb_HxJ7rlsjCuSvp-IrV5CC2c_QEDM)
 
+Les paysage ça va etre globalement du plat et des champs (et oui c'est la loire), des villages et des villes + une departemental qui suis la loire.
+
 ### etape
 
 **Jour 1 - [Cavereau](https://maps.app.goo.gl/emWCPHkiWigAEEvr9) -> [Base loire kayak](https://maps.app.goo.gl/2QhBKZVP26XNfzVH7) (20km - 4h de rame)**
@@ -58,3 +60,9 @@ Globalement il y a Tours sur le chemin, c'est un peu moins de la moitié de l'it
 **Jour 6 - Saint Etienne de chigny -> Bréhémont (22km - 4h de rame)**
 
 Visite : Tour de Cinq Mars la Pile, Château de Langeais
+
+Il y a un petit chateau à cinq Mars la pile. Il y a également des tours un peu partout dans la ville (c'est des tombes gallo romaine).
+
+Il y a un château à langeais et c'est à peu pres tout
+
+![Jour 6](./jour6.png)
