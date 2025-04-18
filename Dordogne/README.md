@@ -18,11 +18,15 @@ Passage à Beaulieu-sur-Dordogne et sa magnifique chapelle au bord de la rivièr
 
 Pas grand chose à visité mais ça a l'air joli mais les colines etc.
 
+![jour1](./jour1.png)
+
 **Jour 2 - Beaulieu -> Vayrac (4h30 - 24 km)**
 
 Passage au village de Carennac, classé parmi "les plus beaux villages de France."
 
 C'est joli, quelques trucs à voir sur le chemin. Carennac ça à l'air banger aussi.
+
+![jour2](./jour2.png)
 
 **Jour 3 - Vayrac -> Saint-Sozy (3h30 - 18 km)**
 
@@ -30,11 +34,15 @@ Très belle descente entre les falaises calcaires du Quercy, passage au pied du 
 
 Globalement la description du site est plutot bien faite.
 
+![jour3](./jour3.png)
+
 **Jour 4 - Saint-Sozy -> Souillac (3h30 - 19 km)**
 
 Une journée placée sous le signe des falaises et des châteaux lotois. Pauses baignade sur une plage de galets face au château de Belcastel, passage sous le Château de la Treyne, classé "Relais de Châteaux".
 
 Pareil, la description est bonne. ça a l'air sympatique, des chateaux, des falaise et des grotte.
+
+![jour4](./jour4.png)
 
 **Jour 5 - Souillac -> Saint-Julien-de-Lampon (3h30 - 12 km)**
 
@@ -42,11 +50,15 @@ Avant le départ, un petit tour à Souillac s'impose. Visite de l'Abbaye, et de 
 
 Journée tranquille, pas tres long. C'est pour ça qu'ils disent de visiter Souillac.
 
+![jour5](./jour5.png)
+
 **Jour 6 - Saint-Julien-de-Lampon -> Vitrac (3h30 - 18 km)**
 
 Passagedans le cingle de Montfort et de son château perché en haut de la falaise.
 
 Sympatique petit bout, quelque arret pas mal
+
+![jour6](./jour6.png)
 
 **Jour 7 - Vitrac -> Beynac (3h30 - 14 km voir moins je suis pas sur c'est bizarrement expliqué)**
 
@@ -54,3 +66,6 @@ Vous passerez au pied du village de Domme. Ensuite, impossible de rater La roque
 
 Stop final juste aprés le château de Vézac.
 
+![jour7](./jour7.png)
+
+## Quelque photo du paysage de la valée
