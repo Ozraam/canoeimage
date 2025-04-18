@@ -69,3 +69,11 @@ Stop final juste aprés le château de Vézac.
 ![jour7](./jour7.png)
 
 ## Quelque photo du paysage de la valée
+
+![](image.png)
+![](./image2.png)
+![](./image3.png)
+![](image4.png)
+![](./image5.png)
+![](./image6.png)
+![](./image7.png)
